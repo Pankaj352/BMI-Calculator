@@ -14,8 +14,7 @@ A simple and responsive **Body Mass Index (BMI) Calculator** built using **React
 - **CSS** (Styling)  
 
 ## 📸 Preview
-![BMI Calculator Screenshot](./screenshot.png)  
-*(Replace with an actual screenshot of your app)*
+![BMI Calculator Screenshot](./public/screenshot.png)  
 
 ## 🎯 How to Use
 1. Clone the repository:  
@@ -44,7 +43,7 @@ A simple and responsive **Body Mass Index (BMI) Calculator** built using **React
 Contributions are welcome! Feel free to fork the repo, open issues, or submit pull requests to enhance the project.
 
 ## 🔗 Live Demo  
-[Click here to check out the live demo](#) *(Replace with your deployed link)*  
+[Click here to check out the live demo](https://bmi-calculator-lac-beta.vercel.app/)  
 
 ---
 
