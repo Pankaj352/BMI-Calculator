@@ -4,14 +4,14 @@ A simple and responsive **Body Mass Index (BMI) Calculator** built using **React
 
 ## 🚀 Features
 - ✅ User-friendly and interactive UI  
-- ✅ Supports both metric (kg/cm) and imperial (lbs/inches) units  
+- ✅ Supports both metric (kg/cm) 
 - ✅ Real-time BMI calculation and classification  
 - ✅ Responsive design for all devices  
-- ✅ Built with **React.js** and styled with **Tailwind CSS** (if used)  
+- ✅ Built with **React.js** and styled with **CSS**  
 
 ## 🛠 Tech Stack
 - **React.js** (Frontend)  
-- **Tailwind CSS / CSS** (Styling)  
+- **CSS** (Styling)  
 
 ## 📸 Preview
 ![BMI Calculator Screenshot](./screenshot.png)  
@@ -49,4 +49,4 @@ Contributions are welcome! Feel free to fork the repo, open issues, or submit pu
 ---
 
 🌟 **If you found this project useful, don't forget to give it a star!**  
-📩 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj-maurya-352/)**  
+📩 **Connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj-maurya-7a9172228/)**  
